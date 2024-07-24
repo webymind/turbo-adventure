@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": 10,
+            "name": "Camping Ile aux benares",
+            "description": "Super camping",
+            "destination": "Mauritius",
+            "region": "sud",
+            "ages": "18-99",
+            "duration": "All day",
+            "included": "Bring your stuff",
+            "start_time": "09:30:00"
+        }
+    ]
+}
